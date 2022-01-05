@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya02160
+- 👋 Hi, I’m @Aditya Yadav
 - 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning Computer science engineering with specialization in data science
 - 💞️ I’m looking to collaborate on ...
